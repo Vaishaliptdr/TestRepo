@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 8851-8FFD
-
- Directory of C:\Users\vaishali.potdar\Desktop\New Project
-
-01/21/2025  03:58 PM    <DIR>          .
-01/21/2025  03:47 PM    <DIR>          ..
-01/21/2025  03:58 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  148,790,128,640 bytes free
+ Vaishali 
